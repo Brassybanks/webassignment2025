@@ -1,0 +1,93 @@
+.body {
+    background-color: yellow;
+    padding: 20px;
+    margin: 0;
+}
+.gak {
+    gap: 20px;
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: yellow;
+}
+.AA{
+      border: black solid;
+    background-color: white;
+    width: 300px;
+    overflow: hidden;
+    flex-shrink: 0;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px;
+    text-align: center;
+    
+}
+.BB{
+    border: black solid;
+    background-color: white;
+    width: 300px;
+    overflow: hidden;
+    flex-shrink: 0;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px;
+    text-align: center;
+}
+.CC{
+   border: black solid;
+    background-color: white;
+    width: 300px;
+    overflow: hidden;
+    flex-shrink: 0;
+    border-radius: 5%;
+    box-shadow: 0 4px 8px;
+    text-align: center;
+
+}
+.footer1{
+background-color: deeppink;
+display: flex;
+border-bottom-left-radius: 12px;
+border-bottom-right-radius: 12px;
+padding: 25px;
+justify-content: space-between ;
+font-size: 15px;
+font-weight: 25px;
+text-align:center;
+border: solid 0.5px; 
+flex-basis: 50%;
+
+
+}
+.footer2{
+background-color: orangered;
+display: flex;
+border-bottom-left-radius: 12px;
+border-bottom-right-radius: 12px;
+padding: 25px;
+justify-content: space-between ;
+font-size: 15px;
+font-weight: 25px;
+text-align:center;
+}
+.footer3{
+background-color:green;
+display: flex;
+border-bottom-left-radius: 12px;
+border-bottom-right-radius: 12px;
+padding: 25px;
+justify-content: space-between ;
+font-size: 15px;
+font-weight: 25px;
+text-align:center;
+}
+.AA-content{
+    font-size: 15px;
+    color: deeppink;
+}
+.BB-content{
+      font-size: 15px;
+    color: orange;
+}
+.CC-content{
+      font-size: 15px;
+    color: green;
+}
